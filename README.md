@@ -40,8 +40,6 @@ Présentation / Documentation
 Vous pouvez consulter la présentation complète du hackathon ici :
 📄 Télécharger le PDF de la présentation
 
-Démo / Version Live
-Voir la démo <!-- Remplace # par le lien si tu déploies le projet -->
 
 Auteur
 Nom : Houda Nasr
